@@ -1,0 +1,7 @@
+Comandos Utilizados em Aula no VSCode Windows
+
+#Install expo-cli
+npm install expo-cli -g
+
+#Create new Project
+npx create-expo-app --template
